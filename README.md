@@ -1,5 +1,9 @@
 ### Hi there 👋
+I am interested in biomedical sciences
 
+I am learning drug development
+
+You can reach me on: https://www.linkedin.com/in/thona-deborah-wusu-031324162
 <!--
 **Thona05/Thona05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
